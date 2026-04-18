@@ -10,19 +10,18 @@
 
 ###
 
-<p align="left">
+
+<ul align="left">
+  <li>Создание tg ботов</li>
+  <li>Back-End разработка</li>
+  <li>Системное администрирование
   <ul>
-    <li>Создание tg ботов</li>
-    <li>Back-End разработка</li>
-    <li>Системное администрирование
-    <ul>
-      <li>Настройка DNS</li>
-      <li>Настройка хостинга</li>
-      <li>Создание зеркал сайта</li>
-    </ul>
-    </li>
+    <li>Настройка DNS</li>
+    <li>Настройка хостинга</li>
+    <li>Создание зеркал сайта</li>
   </ul>
-</p>
+  </li>
+</ul>
 
 ###
 
@@ -44,4 +43,6 @@
 
 ###
 
-<a target="_blank" href="#" align="left"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+<a target="_blank" href="https://t.me/ivan_dev">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+</a>
