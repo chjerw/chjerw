@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Привет 👋</h1>
 
 ###
 
@@ -21,8 +21,6 @@
       <li>Создание зеркал сайта</li>
     </ul>
     </li>
-    <li></li>
-    <li></li>
   </ul>
 </p>
 
@@ -43,5 +41,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
 </div>
-
+<a href="#" align="left"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
 ###
