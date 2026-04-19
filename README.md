@@ -43,10 +43,4 @@
 
 ###
 
-<h2 align="left">Хотите услугу за лоупрайс?</h2>
-
-###
-
-<a target="_blank" href="https://t.me/clossedheimer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-</a>
+## Есть вопросы? Услуга по лоупрайсу? [Лучше пишите Червю](https://t.me/clossedheimer)!
