@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Добро пожаловать на моё портфолио!</p>
+<p align="left">Меня зовут <b>chjerw</b>! Тут собраны все мои проекты с [YouTube](https://www.youtube.com/@ByteEbanats)!</p>
 
 ###
 
